@@ -1,0 +1,57 @@
+html,
+body {
+    background-color:grey;
+    margin:2px;
+    padding:2px;
+}
+
+@font-face { font-family: 'FREEFATFONT';  
+src: url('your_font_file.eot?') format('eot'), 
+url(file:///C:/Users/annie/Documents/GitHub/annie-vu-ngo.github.io/
+CYBORG/CYBORG%20SELVES.html/FREEFATFONT.woff')  format('woff') 
+url(file:///C:/Users/annie/Documents/GitHub/annie-vu-ngo.github.io/
+CYBORG/CYBORG%20SELVES.htmlFREE_FAT_FONT.ttf') format('truetype');}
+
+h1{
+    font-family:free fat font;
+    font-size:215px;
+    font-stretch:ultra-condensed;
+    text-align: top;
+}
+
+
+h2{
+    font-family:arial;
+    font-size:120px;
+    padding:2px;
+    margin:2px;
+    text-align:justify;
+    font-stretch:condensed;
+}
+
+h3{
+    font-family:Arial;
+    font-size:70px;
+    text-align:justify;
+    padding:5px;
+    margin:2px;
+}
+
+p{
+    text-align: justify;
+    column-width: :10px;
+    column-count:2;
+    font-family:arial;
+    font-size:30px;
+    padding:10px;
+}
+
+
+p1{ text-align: justify;
+    column-width: :10px;
+    column-count:2;
+    font-family:arial;
+    font-size:30px;
+    padding:10px;
+
+}
